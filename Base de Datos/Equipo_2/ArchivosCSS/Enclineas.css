@@ -1,0 +1,87 @@
+    #block2{  
+	     background:#ece9e9;  
+        border:3px solid #006b54;  
+        height:75px;
+        color:#fff;  
+        font-family:Georgia,"Times New Roman",Times,serif;  
+        margin:15px 0px 0px 0px;                 
+        padding:10px;  
+    }    
+      
+    #block2 h2{  
+       background:#B6D5BE;  
+       color:#006b54;  
+       font-size:140%;  
+       font-style:normal;  
+       font-weight:bold;  
+       letter-spacing:-1px;  
+       line-height:100%;  
+       margin-top:0px;  
+       padding:0px;  
+   }  
+   #block2 p.details{  
+       background:#006b54  
+   }  
+   #block2 .date-stamp {  
+       background:#ffffff;  
+       border:1px solid #325a83;  
+       color:006b54;  
+       float:left;        
+       font-style:italic;  
+       height:55px;  
+       margin:0px 15px 0px 15px;         
+       overflow:hidden;  
+       padding:0px;  
+       width:80px;  
+   }  
+   select.lista{
+	background-color:  #82a491;	
+	border-color: #000000;
+	vertical-align: middle; 	
+	font-size: 9pt;	
+	height: 22px;	
+	color: #ffffff;	 
+}
+ select.lista2{
+	background-color:  #808077;	
+	border-color: #000000;
+	vertical-align: middle; 	
+	font-size: 9pt;	
+	height: 22px;	
+	color: #ffffff;	 
+}
+ select.lista3{
+	background-color:  #82a491;	
+	border-color: #000000;
+	vertical-align: middle; 	
+	font-size: 9pt;	
+	height: 25px;	
+	width: 200px;
+	color: #ffffff;	 
+}
+ input.campostot{
+	background-color: #82a491;	
+	border-color: #646464; 	
+	font-size: 12pt;	
+	color: #ffffff;	
+	width: 120px;	
+}
+input.campostot2{
+	background-color: #82a491;	
+	border-color: #646464; 	
+	font-size: 9pt;	
+	color: #ffffff;	
+	width: 100px;	
+}
+input.totalenletras{
+	background-color: #82a491;	
+	border-color: #646464; 	
+	font-size: 12pt;	
+	color: #ffffff;	
+	width: 515px;	
+}
+label.letrero{
+	 font-size: 13pt;	
+	 color: #2E2E2E;	
+	 width: 100px; 
+}

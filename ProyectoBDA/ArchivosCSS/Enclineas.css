@@ -1,0 +1,98 @@
+    #block2{
+		background: hsla(14, 93%, 53%, 1);
+
+		background: linear-gradient(90deg, hsla(14, 93%, 53%, 1) 0%, hsla(30, 84%, 58%, 1) 100%);
+
+		background: -moz-linear-gradient(90deg, hsla(14, 93%, 53%, 1) 0%, hsla(30, 84%, 58%, 1) 100%);
+
+		background: -webkit-linear-gradient(90deg, hsla(14, 93%, 53%, 1) 0%, hsla(30, 84%, 58%, 1) 100%);
+
+		filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F64C18", endColorstr="#EE9539", GradientType=1 );
+        border:3px solid black;
+        height:75px;
+        color:#fff;  
+        font-family:Georgia,"Times New Roman",Times,serif;  
+        margin:15px 0px 0px 0px;                 
+        padding:10px;  
+    }    
+      
+    #block2 h2{  
+       background:#FFA32D;
+       color:white;
+       font-size:140%;  
+       font-style:normal;  
+       font-weight:bold;  
+       letter-spacing:-1px;  
+       line-height:100%;  
+       margin-top:0px;  
+       padding:0px;  
+   }  
+   #block2 p.details{  
+       background:#FFB200
+   }
+   #block2 p{
+	   color:black;
+   }
+   #block2 .date-stamp {  
+       background:#ffffff;  
+       border:1px solid #325a83;  
+       color:006b54;  
+       float:left;        
+       font-style:italic;  
+       height:55px;  
+       margin:0px 15px 0px 15px;         
+       overflow:hidden;  
+       padding:0px;  
+       width:80px;  
+   }  
+   select.lista{
+	background-color:  #82a491;	
+	border-color: #000000;
+	vertical-align: middle; 	
+	font-size: 9pt;	
+	height: 22px;	
+	color: #ffffff;	 
+}
+ select.lista2{
+	background-color:  #808077;	
+	border-color: #000000;
+	vertical-align: middle; 	
+	font-size: 9pt;	
+	height: 22px;	
+	color: #ffffff;	 
+}
+ select.lista3{
+	background-color:  #82a491;	
+	border-color: #000000;
+	vertical-align: middle; 	
+	font-size: 9pt;	
+	height: 25px;	
+	width: 200px;
+	color: #ffffff;	 
+}
+ input.campostot{
+	background-color: #82a491;	
+	border-color: #646464; 	
+	font-size: 12pt;	
+	color: #ffffff;	
+	width: 120px;	
+}
+input.campostot2{
+	background-color: #82a491;	
+	border-color: #646464; 	
+	font-size: 9pt;	
+	color: #ffffff;	
+	width: 100px;	
+}
+input.totalenletras{
+	background-color: #82a491;	
+	border-color: #646464; 	
+	font-size: 12pt;	
+	color: #ffffff;	
+	width: 515px;	
+}
+label.letrero{
+	 font-size: 13pt;	
+	 color: #2E2E2E;	
+	 width: 100px; 
+}

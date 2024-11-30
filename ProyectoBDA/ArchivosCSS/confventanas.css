@@ -1,0 +1,29 @@
+      .cajaexitoso, .cajaerror, .referencia{
+		  background-position: 10px center;
+		  background-repeat: no-repeat;
+		  font-family: Tahoma;
+		  font-size: 14px;
+		  margin: 15px;
+		  padding: 15px 10px 15px 55px;
+		  
+		}
+		
+			.cajaexitoso {
+			background-color: #21428c; /* el color de fondo */
+			background-image: url(../Logotipos/KnobValidBlue.png); /* la imagen representativa */
+			color: #dde2ed;  /* el color del texto */
+			border:1px solid #ff9c00;
+		   border:3px ridge #FFAD08;
+			}
+			.cajaerror {
+			background-color: #841010;  /* el color de fondo */
+			background-image: url(../Logotipos/KnobCancel.png); /* la imagen representativa */
+			color: #efbf73;  /* el color del texto */
+			border:1px solid #ff9c00;
+		   border:3px ridge #efbf73;
+			}
+			.referencia {
+			background-color: #6B9CFF; /* el color de fondo */
+			background-image: url(../Logotipos/logodanubiotmp.jpg); /* la imagen representativa */
+			color: #FFFFFF; /* el color del texto */
+			}	

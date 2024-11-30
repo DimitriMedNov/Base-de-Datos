@@ -1,0 +1,15 @@
+h1{
+	font-family: 'Fuzzy Bubbles', cursive;
+}
+
+#leonel{
+	position: absolute;
+	margin-top: 25vh;
+	margin-left: 15vh;
+}
+
+#logo{
+	position: absolute;
+	margin-top: 25vh;
+	right: 1vh;
+}

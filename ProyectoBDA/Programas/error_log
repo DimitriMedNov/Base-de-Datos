@@ -1,0 +1,240 @@
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:00:40 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_Horario  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 61
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: id_conductor  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 62
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Placas  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 63
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Notice:  Undefined index: Id_direcciones  in /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php on line 64
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP Stack trace:
+[30-Nov-2022 12:06:08 America/Mexico_City] PHP   1. {main}() /home/conalepm/runsoft-mexico.com/bda_equipo2/Programas/regs_rutas_ajax.php:0

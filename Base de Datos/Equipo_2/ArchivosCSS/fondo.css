@@ -1,0 +1,38 @@
+	body {	
+	background:#ffffff url(../Logotipos/logofondo2.jpg) repeat fixed;
+	color:#ffffff
+	width:100%;
+	margin:auto;
+	min-width:600px;
+	max-width:2000px;
+	}	
+	#left {	
+	background:#899aa1 ;	
+	float: left;
+	width: 200px;	
+	margin: 0px 0px 0px 0;
+	padding-top: 50px;
+}	
+.borderright {
+border-right-width: 1px;
+border-right-style: solid;
+border-right-color: #FFFF00;
+}
+
+TABLE.busqueda   { 
+table-layout: fixed;
+border-collapse: separate;    
+    margin: 10px 10px;    
+    border: 2px solid #8c8c8c;
+    border-spacing: 2px;
+    padding-left: 5px;   
+         
+}
+ TABLE.busqueda #col1{ 	
+	background: #899aa1;		
+	 width:200px;			   		
+	  } 
+  TABLE.busqueda #col2{ 	
+	background: url(../Logotipos/FondoFormulario4.gif);		
+	 width:925px;	
+	  }   
